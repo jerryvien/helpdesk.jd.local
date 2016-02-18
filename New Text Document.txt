@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-asdfghjkl;fghjdfghjkl
-jhk
-=======
 q
->>>>>>> 1ad32ea2dd809ede57bb35798176193befe0c378
